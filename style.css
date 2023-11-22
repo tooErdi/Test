@@ -1,0 +1,55 @@
+body {
+   font-family: 'Comic Sans MS', cursive, sans-serif;
+   background-color: #ffdab9; /* PeachPuff background */
+   margin: 20px;
+}
+
+h1 {
+   color: #4169e1; /* RoyalBlue header */
+   text-align: center;
+   font-size: 22px;
+}
+
+h2 {
+   color: #8b4513; /* SaddleBrown subheader */
+   font-size: 18px;
+   text-align: center;
+}
+
+p {
+   color: #ff0000; /* Red text */
+   line-height: 1.5;
+   text-align: center;
+}
+
+.info
+{
+color: white;
+background-color: black;
+}
+
+.piano {
+   font-size: 12px;
+}
+
+.moon {
+   text-decoration: underline;
+}
+
+a {text-decoration: none;
+color:#8b4513}
+
+img {display: block;
+margin: 0 auto;}
+
+
+.center {
+   text-align: center;
+}
+
+.center ol,
+.center ul,
+.center dl {
+   display: inline-block;
+   text-align: left;
+}
